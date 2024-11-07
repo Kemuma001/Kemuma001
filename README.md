@@ -3,16 +3,20 @@ SE_Day1_Assignment
 #Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
+
      Is the process of designing,developing,testing and maintaining a software.
      
 IMPORTANCE 
     software engineering helps businesses manage data efficiently.
+    
     software engineering is essential for creating secure online platforms that facilitate transactions and protect sensitive customer information.
+    
     Implementation of encryption protocols, secure payment gateways, and fraud detection systems.
     
 2.Identify and describe at least three key milestones in the evolution of software engineering.
-     Assembly language (1950s)-introduction of low level language that enabled programmers to directly control hardware
-     .
+
+     Assembly language (1950s)-introduction of low level language that enabled programmers to directly control hardware.
+
      High level language(1950-1960s)-Development of languages like FORTRAN,COBOL AND BASIC.
      
     Structured programming(1960-a970s)-Introduction of concepts like modularityx,control structures to improve code readability and mainttainability.
@@ -34,21 +38,36 @@ IMPORTANCE
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
     Waterfall methodology is where each phase is completed before moving to the other phase.Its requires high level of documentation,changes are dificult to make.
+    
     Agile is where the project is brokken down into small chunnks called sprints.Are flexible and adptable,customer involvement throughout the process.
+    
   Waterrfall methology is used in building large scale software system with stable requirements.
-  Agile iis used in making mobile app with constantly evolving user needs.
+  
+  Agile is used in making mobile app with constantly evolving user needs.
+  
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
            Software developer
+           
       Design,develop and implement software code.
+      
       Collaborate with team members to create software solutions.
+      
             Quality assurance engineer
+            
       Test software products to identify and report defects.
+      
       Perform functional,perfomance and regression testing.
+      
              Project manager
+             
       Plan,organise and manages a software development projects.
-      Commuunicatees project progress status to stakeholders.
+      
+      Communicates project progress status to stakeholders.
+      
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
               IDEs
      Facilitate code editing-they offerr featuress like syntax highlighting and code navigation.
      simplifying debbing-allow developers to step thgrough code line to line.
