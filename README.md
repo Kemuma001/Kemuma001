@@ -99,42 +99,34 @@ IMPORTANCE
 
          UNIT
     Verifies the functionality of individual code interact  and work together.
-    
-  Ensures that the individual code componentt function as intended.
-  
-  Detects error earlier reducing the likelihood of defects propagatiinng to larger component
+    Ensures that the individual code componentt function as intended.
+    Detects error earlier reducing the likelihood of defects propagatiinng to larger component
   
           INTERGRATION
-     test hoow individual modules ineract with each other.
-     
-   Ensure that the overall system funcxtion smoothly as a unit.
-   
-   Identify potential intergratioon issues or conflict
+          test hoow individual modules ineract with each other.
+          Ensure that the overall system funcxtion smoothly as a unit.
+          Identify potential intergratioon issues or conflict
    
           SYSTEM
       Test the compplete software system as a whole includiing all its component and interaction.
-      
-   Validate the system functionality perfomance and stability.
-   
-   Verifies that the system meets the users requirement and specificatiion.
+      Validate the system functionality perfomance and stability.
+      Verifies that the system meets the users requirement and specificatiion.
    
          ACCEPTANCE
         Test the system from the users persepective to ensure that it meets their need and expectation.
-        
-   Confirms that thhe system is acceptable for deployment.
-   
-   Prevent costly reworks and user dissatisfaction.
+        Confirms that thhe system is acceptable for deployment.
+        Prevent costly reworks and user dissatisfaction.
    
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 1.Define prompt engineering and discuss its importance in interacting with AI models.
 
-     Prompt engineering is the art of crafting clear,comprehensive and effective promptss to guide AI models in generating the desired result.
+       Prompt engineering is the art of crafting clear,comprehensive and effective promptss to guide AI models in generating the desired result.
      
-    Enhances output quality-reduce ambiguity and lead to more relative output.y
+       Enhances output quality-reduce ambiguity and lead to more relative output.y
     
-    Control over generation-buy adjustng the prompt users can control the style,the tone and conntent of AI models.
+      Control over generation-buy adjustng the prompt users can control the style,the tone and conntent of AI models.
     
     Feedback and improvement-promptt serve as the feedbaackk for AI models,helping them to learn and improve perfomance.
     
@@ -146,7 +138,8 @@ IMPORTANCE
     "write an exercise abouut the importance of exercise"
          Improved
        "Write an evidence-based article explorinng the specific health benefit of daily physical activity"
-         importance oof improved
+       
+         importance of improved
      Clear-specifies the topic or explanation.
      It clarifies the following activities, and memorable reasons.
 
